@@ -107,12 +107,6 @@ var projects = []Project{
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   "."     ║
-║                          — Mercy Moraa, Zone01 Kisumu    ║
-╚══════════════════════════════════════════════════════════╝
-```
 
 ![Snake animation](https://raw.githubusercontent.com/Moraa021/Moraa021/output/github-contribution-grid-snake-dark.svg)
 
